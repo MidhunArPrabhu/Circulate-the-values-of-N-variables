@@ -36,7 +36,7 @@ Using the slicing concept rotate the list
 Display the output
 
 ## PROGRAM : 
-
+```
 #Program to circulate N values.  
 #Developed by: MIDHUN AZHAHU RAJA P  
 #RegisterNumber: 22008311  
@@ -44,7 +44,7 @@ def circulate():
     x=eval(input())  
     n=int(input())  
     print("After circulating the values are:",x[n:]+x[:n])  
-
+```
 ## OUTPUT : 
 
 ![image](https://user-images.githubusercontent.com/118054670/211180352-b865c5ef-ddc2-4722-a4fd-1430e17d11d8.png)
