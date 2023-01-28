@@ -36,7 +36,7 @@ Using the slicing concept rotate the list
 Display the output
 
 ## PROGRAM : 
-```
+```python
 #Program to circulate N values.  
 #Developed by: MIDHUN AZHAHU RAJA P  
 #RegisterNumber: 22008311  
