@@ -6,8 +6,8 @@ To write a python program to circulate the n variables using function concept
 
 ## EQUIPMENTS REQUIRED :
 
-PC  
-Anaconda - Python 3.7  
+- PC  
+- Anaconda - Python 3.7  
 
 ## ALGORITHM :    
 
