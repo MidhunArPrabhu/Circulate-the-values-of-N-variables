@@ -17,7 +17,7 @@ Get the list of values from the user
 
 ### Step 2: 
 
-Get teh value from user for the number of rotation
+Get the value from user for the number of rotation
 
 ### Step 3: 
 
